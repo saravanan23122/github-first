@@ -1,2 +1,2 @@
 # github-first
-My first demo repository to study the basic git workflow
+My first demo repository to study
